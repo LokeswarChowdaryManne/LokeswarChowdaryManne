@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **ai-stylist-project** — an AI-powered outfit suggestion package — along with other AI/ML-based projects.
+- 🌱 I’m currently learning **Cryptography research** in **Hash-Based Linkable Ring Signature** schemes.
+- 👯 I’m looking to collaborate on **any AI/ML-related projects**.
+- 🤔 I’m looking for help with **learning backend development and integration** to gain full-stack development skills.
+- 💬 Ask me about anything tech! I’m a **tech enthusiast** who loves exploring and suggesting the best mobile phones, laptops, and gadgets.
+- 📫 How to reach me: **21pt14@psgtech.ac.in** | [LinkedIn](https://www.linkedin.com/in/manne-lokeswar-chowdary-b1787921b)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can spend hours researching gadgets just for fun — and still enjoy every bit of it!
