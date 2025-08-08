@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Manne Lokeswar Chowdary 👋
 
+I’m a final-year Integrated M.Sc. Theoretical Computer Science student at PSG College of Technology, passionate about **Machine Learning**, **Cryptography**, and building innovative AI-powered solutions.  
+I enjoy solving real-world problems through technology and constantly exploring new tools, frameworks, and ideas.
 <!--
 **LokeswarChowdaryManne/LokeswarChowdaryManne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
