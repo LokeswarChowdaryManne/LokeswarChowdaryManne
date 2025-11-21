@@ -1,6 +1,6 @@
 ## Hi there, I'm Manne Lokeswar Chowdary 👋
 
-I’m a final-year Integrated M.Sc. Theoretical Computer Science student at PSG College of Technology, passionate about **Machine Learning**, **Cryptography**, and building innovative AI-powered solutions.  
+I’m a final-year Integrated M.Sc. Theoretical Computer Science student at PSG College of Technology, passionate about **Machine Learning**, **Artificial Intelligence**, and building innovative AI-powered solutions.  
 I enjoy solving real-world problems through technology and constantly exploring new tools, frameworks, and ideas.
 <!--
 **LokeswarChowdaryManne/LokeswarChowdaryManne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on **ai-stylist-project** — an AI-powered outfit suggestion package — along with other AI/ML-based projects.
-- 🌱 I’m currently learning **Cryptography research** in **Hash-Based Linkable Ring Signature** schemes.
 - 👯 I’m looking to collaborate on **any AI/ML-related projects**.
 - 🤔 I’m looking for help with **learning backend development and integration** to gain full-stack development skills.
 - 💬 Ask me about anything tech! I’m a **tech enthusiast** who loves exploring and suggesting the best mobile phones, laptops, and gadgets.
